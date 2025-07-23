@@ -1,27 +1,23 @@
 ## 📊 Key Insights from Exploratory Data Analysis (EDA)
 
-*A detailed presentation of this EDA will be added soon.*
+📝 A detailed presentation of this EDA will be added soon.
 
-### 🔎 Customer Churn Patterns:
+### 🔎 Customer Churn Patterns
 
-1. **Senior citizens** are more likely to churn compared to younger customers.
+1️⃣ Senior citizens are more likely to churn compared to younger customers.
 
-2. **Customers without a partner** show a higher churn rate, especially:
-   - 👩 **Females without partners** have the highest churn likelihood.
+2️⃣ Customers without a partner show a higher churn rate, especially:
+   👩‍💼 Females without partners have the highest churn likelihood.
 
-3. **Monthly contract users** are more prone to churn — likely due to lack of long-term commitment.
+3️⃣ Monthly contract users are more prone to churn — likely due to lack of long-term commitment.
 
-4. **Electronic check** as a payment method is strongly associated with churn.
-   - Interestingly, **females paying via credit cards** also display elevated churn rates.
+4️⃣ Electronic check as a payment method is strongly associated with churn.
+   💳 Interestingly, females paying via credit cards also display elevated churn rates.
 
-5. **Monthly Charges** and **Total Charges** are positively correlated.
+5️⃣ Monthly Charges and Total Charges are positively correlated.
 
-6. **Higher monthly charges** → **higher churn probability**.
+6️⃣ Higher monthly charges lead to a higher probability of churn.
 
-7. Customers **without online security** or **tech support** are more likely to leave.
+7️⃣ Customers without online security or tech support are more likely to leave.
 
-8. Surprisingly, even **non-senior citizens** exhibit notable churn, challenging common assumptions.
-
----
-
-📌 These insights can guide retention strategies, personalized offers, and customer support improvements.
+8️⃣ Surprisingly, even non-senior citizens exhibit notable churn, which challenges common assumptions.
