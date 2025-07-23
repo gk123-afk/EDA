@@ -1,1 +1,22 @@
+A detailed presentation of this EDA will be added soon.
+
+Key Insights from Exploratory Data Analysis (EDA):
+
+1.Senior citizens are more likely to churn.
+
+2.Customers without a partner tend to churn more, especially:
+  Females without a partner show a higher churn rate.
+
+3.Customers on monthly contracts are more likely to churn, likely because they are not bound by long-term commitments.
+
+4.Electronic check payment method is associated with higher churn.
+  Interestingly, females paying through credit cards also show a higher likelihood of churning.
+
+5.Monthly charges and total charges are positively correlated.
+
+6.Churn rate increases with higher monthly charges.
+
+7.Customers without online security or tech support are more likely to churn.
+
+8.Non-senior citizens also show a high churn rate, contrary to general expectations.
 
