@@ -4,20 +4,20 @@
 
 ### 🔎 Customer Churn Patterns
 
-1️⃣ Senior citizens are more likely to churn compared to younger customers.
+1. Senior citizens are more likely to churn compared to younger customers.
 
-2️⃣ Customers without a partner show a higher churn rate, especially:
+2. Customers without a partner show a higher churn rate.  
    👩‍💼 Females without partners have the highest churn likelihood.
 
-3️⃣ Monthly contract users are more prone to churn — likely due to lack of long-term commitment.
+3. Customers on monthly contracts are more likely to churn, likely because they are not bound by long-term commitments.
 
-4️⃣ Electronic check as a payment method is strongly associated with churn.
-   💳 Interestingly, females paying via credit cards also display elevated churn rates.
+4. Electronic check payment method is associated with higher churn.  
+   💳 Interestingly, females paying through credit cards also show a higher likelihood of churning.
 
-5️⃣ Monthly Charges and Total Charges are positively correlated.
+5. Monthly Charges and Total Charges are positively correlated.
 
-6️⃣ Higher monthly charges lead to a higher probability of churn.
+6. Churn rate increases with higher monthly charges.
 
-7️⃣ Customers without online security or tech support are more likely to leave.
+7. Customers without online security or tech support are more likely to churn.
 
-8️⃣ Surprisingly, even non-senior citizens exhibit notable churn, which challenges common assumptions.
+8. Non-senior citizens also show a high churn rate, contrary to general expectations.
