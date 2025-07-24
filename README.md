@@ -1,7 +1,7 @@
 # EDA
 # 📊 Telco Customer Churn – EDA
 
-This repository contains an Exploratory Data Analysis (EDA) project on the **Telco Customer Churn** dataset. The goal is to uncover patterns and key insights related to customer churn behavior using Python and data visualization tools.
+This repository contains an Exploratory Data Analysis (EDA) project on various dataset. The goal is to uncover patterns and key insights related to customer churn behavior using Python and data visualization tools.
 
 ## 🔍 What’s Inside
 - Data cleaning and preprocessing
